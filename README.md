@@ -18,13 +18,14 @@ Frontend:
 **Next.js** 
 **TailwindCSS**  
 **HTML5**
-**CSS3**  
+**CSS3** 
+**Vue**
 
 Backend & Databases: 
 **FastAPI** 
 **Python** 
 **PostgreSQL**  
-
+**Laravel**
 
 ## 🌱 Currently Exploring
 - MERN Stack (MongoDB, Express, React, Node.js)  
